@@ -1,4 +1,4 @@
 ecsdeploy:
-    image: 143113013094.dkr.ecr.us-east-1.amazonaws.com/republic/ecs-deploy
+    image: 143113013094.dkr.ecr.us-west-2.amazonaws.com/republic/ecs-deploy
     env_file:
         - local.env
